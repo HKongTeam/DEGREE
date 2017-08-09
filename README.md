@@ -6,7 +6,7 @@ These scripts are implementations of DEGREE model in our manuscript entitled "De
 
 ![alt_text][architecture]
 
-[architecture]: ./multi-DNN.pdf
+[architecture]: ./multi-DNN.jpg
 
 
 ## Dependencies
