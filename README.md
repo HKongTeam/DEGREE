@@ -4,11 +4,7 @@ These scripts are implementations of DEGREE model in our manuscript entitled "De
 
 ## DEGREE architecture <a name=DEGREE_architecture> </a>
 
-<div style="width:40%; margin:auto;">
-  <img style="width:50%"
-  src="https://github.com/HKongTeam/DEGREE/blob/master/multi-DNN.jpg">
-</div>
-
+![architecture](./multi-DNN.png =24x48)
 ## Dependencies
 
 The pipeline requires:
