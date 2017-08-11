@@ -3,11 +3,11 @@
 These scripts are implementations of DEGREE model in our manuscript entitled "Deep Graph Embedding for Structure Learning in E-commerce". Here is the architecture of DEGREE. With DEGREE, our goal is to learn valuable network representations, as well as preserve both inter-group interactions and intra-group structures in e-commerce networks. 
 
 ## DEGREE architecture <a name=DEGREE_architecture> </a>
-![test](./multi-DNN.jpg =24x48)
 
-![alt_text][architecture]
-
-[architecture]: ./multi-DNN.jpg
+<div style="width:40%; margin:auto; margin-bottom:10px; margin-top:20px;">
+  <img style="width:100%"
+  src="./multi-DNN.png">
+</div>
 
 ## Dependencies
 
