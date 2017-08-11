@@ -4,7 +4,7 @@ These scripts are implementations of DEGREE model in our manuscript entitled "De
 
 ## DEGREE architecture <a name=DEGREE_architecture> </a>
 
-![architecture](url)<img src="https://github.com/HKongTeam/DEGREE/blob/master/multi-DNN.jpg" width="200px" height = "200px">
+![](url)<img src="https://github.com/HKongTeam/DEGREE/blob/master/multi-DNN.jpg" width="400px" height = "200px">
 ## Dependencies
 
 The pipeline requires:
