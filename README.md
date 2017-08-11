@@ -1,6 +1,6 @@
 ## DEGREE (Deep Graph Embedding for Structure Learning)
 
-These scripts are implementations of DEGREE model in our manuscript entitled "Deep Graph Embedding for Structure Learning in E-commerce". Here is the architecture of DEGREE. With DEGREE, our goal is to learn valuable network representations, as well as preserve both inter-group interactions and intra-group structures in e-commerce networks. 
+These scripts are implementations of DEGREE model in our manuscript entitled "Deep Graph Embedding for Structure Learning in E-commerce". Here is the architecture of DEGREE. With DEGREE, our goal is to learn valuable network representations, as well as preserve both inter-group structure and intra-group structure in e-commerce network. 
 
 ## DEGREE architecture <a name=DEGREE_architecture> </a>
 
