@@ -3,6 +3,7 @@
 These scripts are implementations of DEGREE model in our manuscript entitled "Deep Graph Embedding for Structure Learning in E-commerce". Here is the architecture of DEGREE. With DEGREE, our goal is to learn valuable network representations, as well as preserve both inter-group interactions and intra-group structures in e-commerce networks. 
 
 ## DEGREE architecture <a name=DEGREE_architecture> </a>
+![test](./multi-DNN.jpg =24x48)
 
 ![alt_text][architecture]
 
@@ -52,7 +53,8 @@ Options:
                         other_extensions
 ```
 Run following commands to learn graph embedding:
-```python DEGREE.py --train_file=../data/small_sample_train.txt --test_file=../data/small_sample_test.txt --outdir=../result --nB=100000 --nS=66020 --train_nbatch=10000 --alpha=0.1 --lr=0.01 --other_ext="_sigmoid_SGD" --model_file=False
+```
+python DEGREE.py --train_file=../data/small_sample_train.txt --test_file=../data/small_sample_test.txt --outdir=../result --nB=100000 --nS=66020 --train_nbatch=10000 --alpha=0.1 --lr=0.01 --other_ext="_sigmoid_SGD" --model_file=False
 ```
 ## Project home page
 
