@@ -5,6 +5,7 @@ These scripts are implementations of DEGREE model in our manuscript entitled "De
 ## DEGREE architecture <a name=DEGREE_architecture> </a>
 
 <img src="https://github.com/HKongTeam/DEGREE/blob/master/multi-DNN.jpg" width="600px" height = "300px">
+
 ## Dependencies
 
 The pipeline requires:
