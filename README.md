@@ -6,7 +6,7 @@ These scripts are implementations of DEGREE model in our manuscript entitled "De
 
 <div style="width:40%; margin:auto; margin-bottom:10px; margin-top:20px;">
   <img style="width:100%"
-  src="https://github.com/HKongTeam/DEGREE/multi-DNN.png">
+  src="https://github.com/HKongTeam/DEGREE/blob/master/multi-DNN.jpg">
 </div>
 
 ## Dependencies
