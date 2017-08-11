@@ -5,7 +5,7 @@ These scripts are implementations of DEGREE model in our manuscript entitled "De
 ## DEGREE architecture <a name=DEGREE_architecture> </a>
 
 <div style="width:40%; margin:auto; margin-bottom:10px; margin-top:20px;">
-  <img style="width:100%"
+  <img style="width:50%"
   src="https://github.com/HKongTeam/DEGREE/blob/master/multi-DNN.jpg">
 </div>
 
